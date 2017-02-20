@@ -1,0 +1,13 @@
+{
+  "location":"ห้องแมว",
+  "port_server": 69,
+  "port_web": 8010,
+  "port_cam": 8012,
+  "cam1":"",
+  "cam2":"",
+  "cam3":"",
+  "sound1":"",
+  "sound2":"",
+  "ir_rev":"",
+  "ir_send":""
+}

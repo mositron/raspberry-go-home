@@ -1,0 +1,9 @@
+@font-face{font-family: 'thaisansneue';src: url('../font/thaisansneue/thaisansneue.eot?#iefix') format('embedded-opentype'),  url('../font/thaisansneue/thaisansneue.woff') format('woff'), url('../font/thaisansneue/thaisansneue.ttf')  format('truetype'), url('../font/thaisansneue/thaisansneue.svg#../font/thaisansneue/thaisansneue') format('svg');font-weight: normal;font-style: normal;}
+
+body,th,td{font-size:14pt; font-family: "thaisansneue"; letter-spacing:1px;}
+
+.bar{font-size:18pt;border-bottom:1px solid #ccc;background:#f4f4f4;padding:0px 10px;margin:5px 0px;}
+.bar i{font-size:14px;color:#999;text-shadow: 1px 1px 0px #fff;}
+.table .i{width:20px;vertical-align:middle;}
+.table i{font-size: 14px;}
+.table .time{width:150px;}
