@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"./config"
-	"./server"
-	"./web"
+	"config"
+	"server"
+	"web"
 	"log"
 	"time"
 )
