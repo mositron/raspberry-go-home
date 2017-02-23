@@ -3,7 +3,7 @@ package server
 import (
 	"bufio"
 	"fmt"
-	"home/config"
+	"../config"
 	"io"
 	"log"
 	"net"

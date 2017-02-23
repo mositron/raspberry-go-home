@@ -1,8 +1,8 @@
 package web
 
 import (
-	"home/config"
-	"home/server"
+	"../config"
+	"../server"
 	"io/ioutil"
 	"net/http"
 	"path/filepath"

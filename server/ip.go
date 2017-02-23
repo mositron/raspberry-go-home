@@ -2,7 +2,7 @@ package server
 
 import (
 	"errors"
-	"home/config"
+	"../config"
 	"log"
 	"net"
 	"net/http"
