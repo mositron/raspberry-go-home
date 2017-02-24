@@ -2,7 +2,7 @@ package server
 
 import (
 	"errors"
-	"../config"
+	"github.com/positronth/raspberry-go-home/config"
 	"log"
 	"net"
 	"net/http"

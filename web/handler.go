@@ -1,8 +1,8 @@
 package web
 
 import (
-	"../config"
-	"../server"
+	"github.com/positronth/raspberry-go-home/config"
+	"github.com/positronth/raspberry-go-home/server"
 	"io/ioutil"
 	"net/http"
 	"path/filepath"

@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"config"
-	"server"
+	"github.com/positronth/raspberry-go-home/config"
+	"github.com/positronth/raspberry-go-home/server"
 	"web"
 	"log"
 	"time"

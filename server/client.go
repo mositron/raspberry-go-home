@@ -3,7 +3,7 @@ package server
 import (
 	"bufio"
 	"fmt"
-	"../config"
+	"github.com/positronth/raspberry-go-home/config"
 	"io"
 	"log"
 	"net"
