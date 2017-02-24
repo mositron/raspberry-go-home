@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/positronth/raspberry-go-home/config"
 	"github.com/positronth/raspberry-go-home/server"
-	"web"
+	"github.com/positronth/raspberry-go-home/web"
 	"log"
 	"time"
 )
